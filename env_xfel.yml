@@ -1,0 +1,17 @@
+name: xfel
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyter
+  - jupyterlab
+  - pyqtgraph
+  - pydm
+  - qtmodern
+  - plotly
+  - bokeh
+
