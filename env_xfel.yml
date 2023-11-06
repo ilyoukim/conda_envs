@@ -11,8 +11,9 @@ dependencies:
   - jupyter
   - jupyterlab
   - pyqtgraph
-  - pydm
   - qtmodern
   - plotly
   - bokeh
-
+  - epics-base
+  - pyepics
+  - pydm
