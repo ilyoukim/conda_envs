@@ -16,7 +16,7 @@
 ## commands
 - add environment
   ```bash
-  conda create env -f xxx.yml  
+  conda create env -f xxx.yml
   mamba create env -f xxx.yml
   ```
 
