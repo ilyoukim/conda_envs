@@ -15,13 +15,13 @@
 
 ## commands
 - add environment
-
-  conda create env -f xxx.yml
-  
+  ```bash
+  conda create env -f xxx.yml  
   mamba create env -f xxx.yml
+  ```
 
 - remove environment
-
+  ```bash
   conda remove env -n xxx --all
-
   mamba remove env -n xxx --all
+  ```
